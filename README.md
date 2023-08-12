@@ -1,5 +1,5 @@
 # Netflix---Data-Exploration-and-Visualisation
-Netflix - Data Exploration and Visualisation
+
 About NETFLIX
 Netflix is a streaming platform that offers online access to a vast library of TV shows, movies, documentaries, and more. It was founded in 1997 as a DVD-by-mail service and has since evolved into one of the largest streaming platforms in the world. With Netflix, users can watch their favorite content anytime, anywhere, on a variety of devices including smart TVs, laptops, smartphones, and tablets.
 
@@ -10,4 +10,4 @@ Overall, Netflix has revolutionized the way people watch TV and movies and has b
 About Use case
 Business Problem
 
-Analyze the data and generate insights that could help Netflix ijn deciding which type of shows/movies to produce and how they can grow the business in different countries
+Analyze the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries
